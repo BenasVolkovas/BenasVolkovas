@@ -2,13 +2,11 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2022
+> 🏆 86 Contributions in the Year 2022
  > 
 > 📦 20.8 kB Used in GitHub's Storage 
  > 
@@ -31,10 +29,10 @@
 
 ```text
 Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Tuesday      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Wednesday    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+Tuesday      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
 Saturday     51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.82% 
 Sunday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88%
 
@@ -82,5 +80,5 @@ Solidity                 3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 20:08:55 UTC
+ Last Updated on 02/02/2022 22:06:25 UTC
 <!--END_SECTION:waka-->

@@ -2,6 +2,8 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -45,22 +47,22 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ███████████████░░░░░░░░░░   60.05% 
-JavaScript               1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   30.61% 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-Solidity                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+Python                   3 hrs 2 mins        ██████████████░░░░░░░░░░░   56.13% 
+JavaScript               1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   34.07% 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Solidity                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 25 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-nft-demo                 3 hrs 17 mins       █████████████░░░░░░░░░░░░   54.61% 
-Yuffi-menu               2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   38.95% 
-Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+nft-demo                 2 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.48% 
+Yuffi-menu               2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   43.35% 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17%
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.0%
+Windows                  5 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +83,5 @@ Solidity                 3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 22:07:02 UTC
+ Last Updated on 07/02/2022 00:24:15 UTC
 <!--END_SECTION:waka-->

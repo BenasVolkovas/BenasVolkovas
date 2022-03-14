@@ -2,6 +2,8 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -45,21 +47,18 @@ Sunday       35 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       ███████████████████████░░   92.0% 
-Solidity                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+Python                   3 hrs 27 mins       ████████████████████████░   96.48% 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 35 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 35 mins       ███████████████████████░░   94.34% 
-defi-stake-yield         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+Unknown Project          3 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.0%
+Windows                  3 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +79,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/03/2022 22:06:31 UTC
+ Last Updated on 14/03/2022 00:33:55 UTC
 <!--END_SECTION:waka-->

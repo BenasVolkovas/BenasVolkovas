@@ -2,6 +2,8 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -45,24 +47,23 @@ Sunday       69 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Python                   14 hrs 24 mins      ████████████████░░░░░░░░░   66.12% 
-TypeScript               4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-JavaScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
-Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Python                   16 hrs 26 mins      ███████████████████░░░░░░   75.71% 
+TypeScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+JavaScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 🔥 Editors: 
-VS Code                  21 hrs 47 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 43 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Ukraine Jobs             16 hrs 24 mins      ██████████████████░░░░░░░   75.32% 
-typescript-todo          3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
-companies-in-russia-and-u57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.37% 
-Typescript todo          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+Ukraine Jobs             18 hrs 34 mins      █████████████████████░░░░   85.46% 
+typescript-todo          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
+companies-in-russia-and-u57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
 Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 💻 Operating System: 
-Windows                  21 hrs 47 mins      █████████████████████████   100.0%
+Windows                  21 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +84,5 @@ Solidity                 4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/04/2022 22:09:52 UTC
+ Last Updated on 11/04/2022 00:32:57 UTC
 <!--END_SECTION:waka-->

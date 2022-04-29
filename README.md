@@ -2,6 +2,8 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -45,21 +47,20 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ███████████████████░░░░░░   76.12% 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-Solidity                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+Python                   1 hr 50 mins        ███████████████████░░░░░░   78.67% 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Solidity                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 19 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Ukraine Jobs             4 hrs 47 mins       ███████████████████████░░   95.02% 
-harhat-chainlink-hackatho15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
+Ukraine Jobs             2 hrs 4 mins        ██████████████████████░░░   89.21% 
+harhat-chainlink-hackatho15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.79%
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.0%
+Windows                  2 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +81,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/04/2022 22:09:49 UTC
+ Last Updated on 29/04/2022 00:35:21 UTC
 <!--END_SECTION:waka-->

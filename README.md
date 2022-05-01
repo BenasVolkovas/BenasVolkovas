@@ -2,15 +2,15 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 390 Contributions in the Year 2022
  > 
-> 📦 22.7 kB Used in GitHub's Storage 
+> 📦 22.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,29 +47,33 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 12 mins             ████████████████████░░░░░   82.93% 
-JavaScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+JavaScript               41 mins             █████████████░░░░░░░░░░░░   54.27% 
+Solidity                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+VS Code                  1 hr 15 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-harhat-chainlink-hackatho15 mins             █████████████████████████   100.0%
+getting-started-javascrip46 mins             ███████████████░░░░░░░░░░   60.85% 
+harhat-chainlink-hackatho15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94% 
+my-app                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.21%
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+Windows                  1 hr 15 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
-Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-Solidity                 4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.86% 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
 
 ```
 
@@ -79,5 +83,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 12:12:43 UTC
+ Last Updated on 01/05/2022 04:27:50 UTC
 <!--END_SECTION:waka-->

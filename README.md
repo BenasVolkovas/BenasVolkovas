@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,21 +47,24 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 7 hrs 48 mins       ██████████████░░░░░░░░░░░   56.02% 
-JavaScript               5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   38.04% 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Solidity                 7 hrs 56 mins       ████████████████░░░░░░░░░   66.86% 
+JavaScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 🔥 Editors: 
-VS Code                  13 hrs 56 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 52 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-protocol-v1              13 hrs 47 mins      ████████████████████████░   98.9% 
-nft-demo                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-shape-nft-dapp           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+protocol-v1              9 hrs 19 mins       ███████████████████░░░░░░   78.5% 
+market-sentiments        2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+nft-demo                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
+shape-nft-dapp           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
+PartySwap                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 💻 Operating System: 
-Windows                  13 hrs 56 mins      █████████████████████████   100.0%
+Windows                  11 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +85,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 22:10:16 UTC
+ Last Updated on 30/05/2022 00:41:24 UTC
 <!--END_SECTION:waka-->

@@ -4,20 +4,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 463 contributions in 2022
-
-📦 24.4 kB used in GitHub's storage 
-
-📜 19 Public Repositories 
-
-🔑 21 Private Repositories  
+> 🏆 463 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 24.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   22.95% 
@@ -26,7 +27,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm most productive on Saturday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
@@ -40,7 +41,7 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Vilnius
@@ -59,7 +60,7 @@ No Activity Tracked This Week
 
 ```
 
-**💻 I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
@@ -76,5 +77,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:10:02 UTC
+ Last Updated on 12/06/2022 10:08:25 UTC
 <!--END_SECTION:waka-->

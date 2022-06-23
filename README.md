@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,16 +47,22 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 53 mins        ████████████░░░░░░░░░░░░░   48.79% 
+Solidity                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   27.34% 
+JavaScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 52 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LCF-protocol             3 hrs 37 mins       ███████████████████████░░   93.56% 
+shape-nft-dapp           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
+market-sentiments        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +83,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2022 22:10:14 UTC
+ Last Updated on 23/06/2022 00:35:17 UTC
 <!--END_SECTION:waka-->

@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -47,21 +47,16 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 2 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.16% 
-TypeScript               2 hrs               ███████████░░░░░░░░░░░░░░   46.75% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LCF-protocol             3 hrs 48 mins       ██████████████████████░░░   88.74% 
-random-test-typescript   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.26%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 17 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -82,5 +77,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 22:09:51 UTC
+ Last Updated on 23/07/2022 00:41:18 UTC
 <!--END_SECTION:waka-->

@@ -47,16 +47,17 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Solidity                 19 mins             ███████████████░░░░░░░░░░   60.26% 
+TypeScript               12 mins             ██████████░░░░░░░░░░░░░░░   39.74%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LCF-protocol             32 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +78,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2022 20:10:31 UTC
+ Last Updated on 05/08/2022 00:47:49 UTC
 <!--END_SECTION:waka-->

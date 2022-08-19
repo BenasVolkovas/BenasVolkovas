@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 497 Contributions in the Year 2022
  > 
-> 📦 26.0 kB Used in GitHub's Storage 
+> 📦 25.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,21 +47,23 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 50 mins             ████████░░░░░░░░░░░░░░░░░   33.77% 
-JSON                     46 mins             ███████░░░░░░░░░░░░░░░░░░   30.99% 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+Solidity                 2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.96% 
+TypeScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   32.38% 
+JSON                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 46 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hardhat-typescript-boiler4 hrs 11 mins       ████████████████████████░   95.62% 
-hardhat-lottery          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+LCF-protocol             3 hrs 22 mins       ██████████████░░░░░░░░░░░   58.39% 
+hardhat-typescript-boiler2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.39% 
+hardhat-lottery          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+hardhat-fund-me          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.0%
+Windows                  5 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +84,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 10:11:21 UTC
+ Last Updated on 19/08/2022 12:14:58 UTC
 <!--END_SECTION:waka-->

@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,24 +47,24 @@ Sunday       67 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 8 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   31.17% 
-TypeScript               6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   22.38% 
-JavaScript               6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-JSON                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-Markdown                 52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
+Solidity                 9 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.66% 
+TypeScript               7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.72% 
+JavaScript               5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79% 
+JSON                     3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Other                    50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 🔥 Editors: 
-VS Code                  28 hrs 28 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 45 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             13 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.14% 
-twitter-crypto-donation  10 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   37.99% 
-contracts                1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-python mini scripts      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-hardhat-security-fcc     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
+LCF-protocol             15 hrs              █████████████░░░░░░░░░░░░   54.1% 
+twitter-crypto-donation  10 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   38.98% 
+hardhat-security-fcc     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+chrome-extension-twitter-24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+youtube-chrome-extension 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 💻 Operating System: 
-Windows                  28 hrs 28 mins      █████████████████████████   100.0%
+Windows                  27 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 22:10:16 UTC
+ Last Updated on 10/09/2022 00:44:56 UTC
 <!--END_SECTION:waka-->

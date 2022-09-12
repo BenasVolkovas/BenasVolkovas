@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -47,24 +47,24 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 9 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   38.02% 
-TypeScript               8 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   34.16% 
-JavaScript               3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Solidity                 9 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.59% 
+TypeScript               8 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.79% 
+JavaScript               5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 🔥 Editors: 
-VS Code                  23 hrs 52 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 8 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             15 hrs 32 mins      ████████████████░░░░░░░░░   65.11% 
-twitter-crypto-donation  7 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   30.53% 
-hardhat-security-fcc     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-hardhat-lottery          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-echidna-test             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+LCF-protocol             15 hrs 32 mins      ████████████████░░░░░░░░░   64.37% 
+twitter-crypto-donation  7 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   31.32% 
+hardhat-security-fcc     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
+hardhat-lottery          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+echidna-test             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
 
 💻 Operating System: 
-Windows                  23 hrs 52 mins      █████████████████████████   100.0%
+Windows                  24 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/09/2022 22:10:27 UTC
+ Last Updated on 12/09/2022 00:42:14 UTC
 <!--END_SECTION:waka-->

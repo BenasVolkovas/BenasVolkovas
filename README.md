@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -47,23 +47,23 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-JavaScript               16 hrs 49 mins      ███████████░░░░░░░░░░░░░░   46.49% 
-TypeScript               8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.8% 
-Solidity                 8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   22.42% 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
-CSS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
+JavaScript               15 hrs 58 mins      ███████████░░░░░░░░░░░░░░   46.03% 
+Solidity                 8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+TypeScript               8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   23.35% 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
+CSS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 🔥 Editors: 
-VS Code                  36 hrs 12 mins      █████████████████████████   100.0%
+VS Code                  34 hrs 41 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-twitter-crypto-donation  19 hrs 21 mins      █████████████░░░░░░░░░░░░   53.46% 
-LCF-protocol             16 hrs 48 mins      ███████████░░░░░░░░░░░░░░   46.44% 
+twitter-crypto-donation  18 hrs 22 mins      █████████████░░░░░░░░░░░░   52.95% 
+LCF-protocol             16 hrs 17 mins      ███████████░░░░░░░░░░░░░░   46.94% 
 update-dom               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
 hardhat-lottery          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  36 hrs 12 mins      █████████████████████████   100.0%
+Windows                  34 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +84,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 22:10:06 UTC
+ Last Updated on 18/09/2022 00:46:10 UTC
 <!--END_SECTION:waka-->

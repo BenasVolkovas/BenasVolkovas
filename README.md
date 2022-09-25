@@ -47,18 +47,16 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████░░░░   84.97% 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-twitter-crypto-donation  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +77,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 22:10:28 UTC
+ Last Updated on 25/09/2022 00:42:53 UTC
 <!--END_SECTION:waka-->

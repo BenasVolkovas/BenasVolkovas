@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -47,21 +47,21 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 2 hrs 21 mins       ██████████████████░░░░░░░   71.64% 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+Solidity                 3 hrs 29 mins       ███████████████░░░░░░░░░░   63.02% 
+TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-contracts                1 hr 53 mins        ██████████████░░░░░░░░░░░   57.64% 
-LCF-protocol             1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   42.36%
+LCF-protocol             3 hrs 39 mins       ████████████████░░░░░░░░░   65.82% 
+contracts                1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   34.18%
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.0%
+Windows                  5 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +82,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 22:11:10 UTC
+ Last Updated on 01/10/2022 01:03:54 UTC
 <!--END_SECTION:waka-->

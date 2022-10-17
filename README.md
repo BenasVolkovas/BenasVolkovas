@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,24 +47,24 @@ Sunday       51 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 11 hrs 48 mins      ███████████████░░░░░░░░░░   60.24% 
-Python                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
-TypeScript               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.79% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+Solidity                 12 hrs 53 mins      █████████████████░░░░░░░░   70.32% 
+TypeScript               3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
 
 🔥 Editors: 
-VS Code                  19 hrs 35 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 20 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             14 hrs 42 mins      ██████████████████░░░░░░░   75.04% 
-python mini scripts      3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-ethers_examples-master   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-vite-ethers-test         37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-react-empty-project      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+LCF-protocol             16 hrs 33 mins      ██████████████████████░░░   90.22% 
+ethers_examples-master   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+vite-ethers-test         37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+python mini scripts      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+react-empty-project      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 💻 Operating System: 
-Windows                  19 hrs 35 mins      █████████████████████████   100.0%
+Windows                  18 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 22:10:09 UTC
+ Last Updated on 17/10/2022 01:00:17 UTC
 <!--END_SECTION:waka-->

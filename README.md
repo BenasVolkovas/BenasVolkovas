@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,24 +47,24 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 7 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.29% 
-TypeScript               6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.93% 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+TypeScript               7 hrs 50 mins       █████████████░░░░░░░░░░░░   52.49% 
+Solidity                 5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.85% 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  15 hrs 2 mins       █████████████████████████   100.0%
+VS Code                  14 hrs 57 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             14 hrs 11 mins      ███████████████████████░░   94.31% 
-Krepsinis                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-vite-ethers-test         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+LCF-protocol             14 hrs 5 mins       ███████████████████████░░   94.27% 
+Krepsinis                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+vite-ethers-test         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
 hardhat-typescript-testin2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 💻 Operating System: 
-Windows                  15 hrs 2 mins       █████████████████████████   100.0%
+Windows                  14 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 22:12:53 UTC
+ Last Updated on 25/10/2022 00:57:12 UTC
 <!--END_SECTION:waka-->

@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,23 +47,23 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   47.46% 
-TypeScript               8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   46.79% 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+Solidity                 9 hrs 13 mins       █████████████░░░░░░░░░░░░   52.04% 
+TypeScript               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.33% 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 🔥 Editors: 
-VS Code                  19 hrs 2 mins       █████████████████████████   100.0%
+VS Code                  17 hrs 42 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             18 hrs 14 mins      ████████████████████████░   95.8% 
-Krepsinis                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-hardhat-typescript-testin2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+LCF-protocol             16 hrs 54 mins      ███████████████████████░░   95.49% 
+Krepsinis                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+hardhat-typescript-testin2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 💻 Operating System: 
-Windows                  19 hrs 2 mins       █████████████████████████   100.0%
+Windows                  17 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +84,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 22:12:07 UTC
+ Last Updated on 29/10/2022 00:40:36 UTC
 <!--END_SECTION:waka-->

@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,22 +47,21 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 9 hrs 11 mins       █████████████░░░░░░░░░░░░   51.98% 
-TypeScript               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.4% 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+Solidity                 9 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.46% 
+TypeScript               7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.66% 
+Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-VS Code                  17 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 57 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             16 hrs 54 mins      ████████████████████████░   95.69% 
-Krepsinis                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+LCF-protocol             16 hrs 54 mins      ██████████████████████░░░   89.21% 
+Egzaminai                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79%
 
 💻 Operating System: 
-Windows                  17 hrs 40 mins      █████████████████████████   100.0%
+Windows                  18 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +82,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 22:12:00 UTC
+ Last Updated on 31/10/2022 00:51:49 UTC
 <!--END_SECTION:waka-->

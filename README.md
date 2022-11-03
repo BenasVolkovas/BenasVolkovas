@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,21 +47,21 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 6 hrs 49 mins       ██████████████░░░░░░░░░░░   57.95% 
-TypeScript               2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-Python                   1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+Solidity                 6 hrs 13 mins       █████████████░░░░░░░░░░░░   52.06% 
+Python                   2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04% 
+TypeScript               2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29% 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 🔥 Editors: 
-VS Code                  11 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 58 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             9 hrs 43 mins       ████████████████████░░░░░   82.61% 
-Egzaminai                2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39%
+LCF-protocol             8 hrs 55 mins       ██████████████████░░░░░░░   74.55% 
+Egzaminai                3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.45%
 
 💻 Operating System: 
-Windows                  11 hrs 45 mins      █████████████████████████   100.0%
+Windows                  11 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +82,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 22:10:50 UTC
+ Last Updated on 03/11/2022 00:43:40 UTC
 <!--END_SECTION:waka-->

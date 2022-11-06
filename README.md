@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,22 +47,23 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 11 hrs 53 mins      ███████████████░░░░░░░░░░   63.2% 
-TypeScript               3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-Python                   2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+Solidity                 11 hrs 57 mins      ███████████████░░░░░░░░░░   63.07% 
+TypeScript               3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Python                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 🔥 Editors: 
-VS Code                  18 hrs 48 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 57 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             15 hrs 1 min        ████████████████████░░░░░   79.87% 
-Egzaminai                3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-vite-ethers-test         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
+LCF-protocol             15 hrs 5 mins       ████████████████████░░░░░   79.61% 
+Egzaminai                3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+vite-ethers-test         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+python mini scripts      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 💻 Operating System: 
-Windows                  18 hrs 48 mins      █████████████████████████   100.0%
+Windows                  18 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +84,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 22:09:29 UTC
+ Last Updated on 06/11/2022 00:42:07 UTC
 <!--END_SECTION:waka-->

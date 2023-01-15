@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -72,11 +72,11 @@ WSL                      2 hrs 45 mins       ███░░░░░░░░�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         26 repos            █████████░░░░░░░░░░░░░░░░   38.81% 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
+Jupyter Notebook         25 repos            █████████░░░░░░░░░░░░░░░░   37.88% 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61%
 
 ```
 
@@ -86,5 +86,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 10:08:18 UTC
+ Last Updated on 15/01/2023 12:14:14 UTC
 <!--END_SECTION:waka-->

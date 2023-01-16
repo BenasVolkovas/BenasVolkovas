@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,5 +86,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 06:11:58 UTC
+ Last Updated on 16/01/2023 08:12:45 UTC
 <!--END_SECTION:waka-->

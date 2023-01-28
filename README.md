@@ -47,20 +47,16 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       ██████████████████░░░░░░░   73.86% 
-GraphQL                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
-Solidity                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LCF-protocol             4 hrs 48 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +77,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 22:09:39 UTC
+ Last Updated on 28/01/2023 00:36:49 UTC
 <!--END_SECTION:waka-->

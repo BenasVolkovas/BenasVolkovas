@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C232%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,22 +47,22 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-TypeScript               3 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.96% 
-GraphQL                  2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   39.41% 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Solidity                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+TypeScript               5 hrs 2 mins        █████████████░░░░░░░░░░░░   55.42% 
+GraphQL                  3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.26% 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83% 
+Solidity                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LCF-protocol             6 hrs 10 mins       ████████████████████████░   97.38% 
-ligo-koans               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+LCF-protocol             8 hrs 55 mins       ████████████████████████░   98.17% 
+ligo-koans               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 💻 Operating System: 
-Windows                  6 hrs 10 mins       ████████████████████████░   97.38% 
-WSL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+Windows                  8 hrs 55 mins       ████████████████████████░   98.17% 
+WSL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 ```
 
@@ -83,5 +83,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 22:09:30 UTC
+ Last Updated on 02/02/2023 00:38:20 UTC
 <!--END_SECTION:waka-->

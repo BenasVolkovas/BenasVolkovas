@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,23 +45,22 @@ Sunday                   679 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-TypeScript               11 hrs 15 mins      ██████████████████░░░░░░░   70.91 % 
-JavaScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-GraphQL                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Solidity                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               7 hrs 20 mins       ████████████████░░░░░░░░░   63.12 % 
+JavaScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+GraphQL                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Solidity                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lp-stake-subgraph        13 hrs 11 mins      █████████████████████░░░░   83.10 % 
-vite-ethers-test         2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-LCF-protocol             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+lp-stake-subgraph        8 hrs 28 mins       ██████████████████░░░░░░░   72.91 % 
+vite-ethers-test         2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -81,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 22:06:10 UTC
+ Last Updated on 22/04/2023 00:32:50 UTC
 <!--END_SECTION:waka-->

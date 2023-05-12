@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,22 +45,22 @@ Sunday                   1379 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
-JavaScript               4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-GraphQL                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Solidity                 6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+JavaScript               4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+TypeScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+GraphQL                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-streampay-staking        13 hrs 4 mins       ██████████████████░░░░░░░   72.34 % 
-lp-stake-subgraph        4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-vite-ethers-test         21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+streampay-staking        12 hrs 4 mins       █████████████████░░░░░░░░   67.02 % 
+lp-stake-subgraph        5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+vite-ethers-test         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 💻 Operating System: 
-Windows                  18 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -80,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2023 22:06:21 UTC
+ Last Updated on 12/05/2023 00:33:51 UTC
 <!--END_SECTION:waka-->

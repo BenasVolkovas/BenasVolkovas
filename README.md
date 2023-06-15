@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C456%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C456%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,16 +45,17 @@ Sunday                   1582 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   45 mins             ████████████████████████░   96.93 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+IT                       46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -74,5 +75,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 22:06:31 UTC
+ Last Updated on 15/06/2023 00:38:29 UTC
 <!--END_SECTION:waka-->

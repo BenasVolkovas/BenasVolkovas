@@ -45,17 +45,16 @@ Sunday                   1584 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   98.70 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-IT                       18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -75,5 +74,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 22:08:46 UTC
+ Last Updated on 27/06/2023 00:43:00 UTC
 <!--END_SECTION:waka-->

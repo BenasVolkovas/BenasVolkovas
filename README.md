@@ -45,23 +45,16 @@ Sunday                   1878 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-TypeScript               2 hrs 31 mins       ████████████████░░░░░░░░░   62.20 % 
-JavaScript               1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Solidity                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vite-ethers-test         2 hrs 58 mins       ██████████████████░░░░░░░   73.22 % 
-vite-ssr-project         40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-streampay-monorepo       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       ██████████████████░░░░░░░   73.22 % 
-WSL                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -81,5 +74,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2023 22:06:25 UTC
+ Last Updated on 12/08/2023 00:28:58 UTC
 <!--END_SECTION:waka-->

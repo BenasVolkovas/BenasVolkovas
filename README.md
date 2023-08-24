@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,21 +45,21 @@ Sunday                   1878 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-TypeScript               23 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
-JavaScript               22 mins             ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Solidity                 19 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript               37 mins             ██████████░░░░░░░░░░░░░░░   40.58 % 
+TypeScript               30 mins             ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Solidity                 22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-streampay-monorepo       37 mins             ██████████████░░░░░░░░░░░   57.22 % 
-vite-ethers-test         28 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
+vite-ethers-test         50 mins             ██████████████░░░░░░░░░░░   54.86 % 
+streampay-monorepo       41 mins             ███████████░░░░░░░░░░░░░░   45.14 % 
 
 💻 Operating System: 
-WSL                      37 mins             ██████████████░░░░░░░░░░░   57.22 % 
-Windows                  28 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
+Windows                  50 mins             ██████████████░░░░░░░░░░░   54.86 % 
+WSL                      41 mins             ███████████░░░░░░░░░░░░░░   45.14 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -79,5 +79,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2023 22:07:02 UTC
+ Last Updated on 24/08/2023 00:29:50 UTC
 <!--END_SECTION:waka-->

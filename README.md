@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/14954249/benas-volkovas"><img src="https://stackoverflow.com/users/flair/14954249.png?theme=dark" width="208" height="58" alt="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benas Volkovas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C559%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,23 +45,23 @@ Sunday                   1878 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Vilnius
 
 💬 Programming Languages: 
-Solidity                 6 hrs 22 mins       █████████████████░░░░░░░░   66.98 % 
-JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TypeScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Solidity                 10 hrs 6 mins       █████████████████░░░░░░░░   68.70 % 
+TypeScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+JSON                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-streampay-monorepo       8 hrs 11 mins       █████████████████████░░░░   85.99 % 
-vite-ethers-test         1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-trading212               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+streampay-monorepo       12 hrs 35 mins      █████████████████████░░░░   85.61 % 
+vite-ethers-test         1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+trading212               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-WSL                      8 hrs 11 mins       █████████████████████░░░░   85.99 % 
-Windows                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+WSL                      12 hrs 35 mins      █████████████████████░░░░   85.61 % 
+Windows                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -81,5 +81,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenasVolkovas/BenasVolkovas/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2023 22:07:27 UTC
+ Last Updated on 06/09/2023 00:31:14 UTC
 <!--END_SECTION:waka-->

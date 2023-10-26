@@ -6,6 +6,7 @@
 - I am currently employed as a blockchain developer at "SUPER HOW?".
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benas-volkovas/)
 
-[![My GitHub stats](https://github-readme-stats-theta-snowy.vercel.app/api?username=BenasVolkovas&hide=stars&show=reviews&theme=dark)](https://github.com/BenasVolkovas)
-
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats-theta-snowy.vercel.app/api?username=BenasVolkovas&hide=stars&show=reviews&theme=dark" />
+ <img class="img" src="https://streak-stats.demolab.com/?user=BenasVolkovas&theme=dark" />
+</div>

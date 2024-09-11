@@ -1,9 +1,9 @@
 ## Hi, I am Benas
 - I'm a blockchain developer and entrepreneur passionate about startups, indie hacking, investments, and web3.
 - I started my coding journey at the age of 13.
-- I landed my first job as a web3/blockchain developer during the 11th grade.
-- After completing the 12th grade, I intentionally chose the path of becoming a self-taught developer over attending university.
-- I am currently employed as a blockchain developer at "SUPER HOW?".
+- I landed my first job as a smart contract developer at the age of 18.
+- I am employed as a blockchain developer at "SUPER HOW?".
+- I am building a shopify app [NFT Gate](https://apps.shopify.com/nft-gate?ref=github) as my side project.
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benas-volkovas/)
 
 <div style="display: flex; flex-direction: row;">
